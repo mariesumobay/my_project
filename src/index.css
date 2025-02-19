@@ -60,3 +60,9 @@ button:hover {
 .clear:hover {
   background-color: #c0392b; 
 }
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+}
