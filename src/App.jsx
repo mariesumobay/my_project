@@ -24,6 +24,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
+      <h1>My Calculator</h1> {/* Add a name/title here */}
       <div className="display">
         <input type="text" value={input} readOnly />
         <div className="result">{result}</div>
